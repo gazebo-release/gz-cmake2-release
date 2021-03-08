@@ -15,6 +15,4 @@ Architecture: any
 Section: libdevel
 Depends: cmake
 Multi-Arch: same
-Description: Protobuf messages for ignitionics applications - Development files
- This library provides a set of google protobuf messages that are typically used
- in ignition applications. 
+Description: Ignition Robotics CMake Library - Development files
