@@ -1,6 +1,6 @@
-ignition-cmake2 (2.10.1~pre1-1~focal) focal; urgency=medium
+ignition-cmake2 (2.10.0~pre1-1~focal) focal; urgency=medium
 
-  * ignition-cmake2 2.10.1~pre1-1 release
+  * ignition-cmake2 2.10.0~pre1-1 release
 
  -- Steve Peters <scpeters@openrobotics.org>  Thu, 09 Dec 2021 08:36:00 -0800
 
