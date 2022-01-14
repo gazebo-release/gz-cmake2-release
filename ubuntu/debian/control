@@ -5,9 +5,10 @@ Section: science
 Priority: optional
 Build-Depends: cmake,
                pkg-config,
-               debhelper (>= 9)
-Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign_cmake-release
-Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign_cmake-release
+               debhelper (>= 11)
+Vcs-Browser: https://github.com/ignitionrobotics/ignition-cmake
+Vcs-Git: https://github.com/ignitionrobotics/ignition-cmake.git
+Standards-Version: 4.5.1
 Homepage: http://ignitionrobotics.org/
 
 Package: libignition-cmake2-dev
@@ -15,6 +16,10 @@ Architecture: any
 Section: libdevel
 Depends: cmake
 Multi-Arch: same
-Description: Protobuf messages for ignitionics applications - Development files
- This library provides a set of google protobuf messages that are typically used
- in ignition applications. 
+Description: Ignition Robotics CMake Library - Development files
+ CMake modules to be used by the Ignition projects.
+ .
+ This package is required to build ignition projects, as well as to link your
+ third party projects against them. It provides modules that are used to find
+ dependencies of ignition projects and generate cmake targets for consumers of
+ ignition projects to link against.
