@@ -1,2 +1,2 @@
 Tests: build
-Depends: libignition-cmake-dev, cmake, g++, pkg-config
+Depends: @, cmake, g++, pkg-config
