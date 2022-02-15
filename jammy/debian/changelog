@@ -1,3 +1,9 @@
+ignition-cmake2 (2.10.0-99~jammy) jammy; urgency=medium
+
+  * ignition-cmake2 2.10.0-99 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 15 Feb 2022 19:30:27 +0100
+
 ignition-cmake2 (2.10.0-1~jammy) jammy; urgency=medium
 
   * First release for jammy
