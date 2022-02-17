@@ -4,7 +4,7 @@ Section: science
 Priority: optional
 Build-Depends: cmake,
                pkg-config,
-               debhelper (>= 12)
+               debhelper (>= 11)
 Vcs-Browser: https://github.com/ignitionrobotics/ignition-cmake
 Vcs-Git: https://github.com/ignitionrobotics/ignition-cmake.git
 Standards-Version: 4.5.1
