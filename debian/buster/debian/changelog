@@ -1,3 +1,9 @@
+ignition-cmake2 (2.13.0-1~buster) buster; urgency=medium
+
+  * ignition-cmake2 2.13.0-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 22 Jul 2022 13:58:22 -0700
+
 ignition-cmake2 (2.12.1-1~buster) buster; urgency=medium
 
   * ignition-cmake2 2.12.1-1 release
