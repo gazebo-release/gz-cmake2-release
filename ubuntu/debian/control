@@ -16,7 +16,7 @@ Section: libdevel
 Depends: cmake, ${misc:Depends}
 Multi-Arch: same
 Description: Gazebo CMake Library - Development files
- CMake modules to be used by the Ignition projects.
+ CMake modules to be used by the Gazebo projects.
  .
  This package is required to build Gazebo projects, as well as to link your
  third party projects against them. It provides modules that are used to find
