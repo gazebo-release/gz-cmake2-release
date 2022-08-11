@@ -28,5 +28,5 @@ Depends: libignition-cmake2-dev, ${misc:Depends}
 Architecture: any
 Priority: optional
 Section: libdevel
-Description: Wrapper around ignition package.
+Description: Dummy dependency package for ignition package.
  It's recommended to use the gz packages going forward.
