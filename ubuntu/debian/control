@@ -25,8 +25,8 @@ Description: Gazebo CMake Library - Development files
 
 Package: libgz-cmake2-dev
 Depends: libignition-cmake2-dev, ${misc:Depends}
-Architecture: any
+Architecture: all
 Priority: optional
-Section: libdevel
-Description: dummy
+Section: oldlibs
+Description: transitional package
  It's recommended to use the gz packages going forward.
