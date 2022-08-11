@@ -28,4 +28,4 @@ Depends: libignition-cmake2-dev, ${misc:Depends}
 Architecture: any
 Priority: optional
 Section: libdevel
-Description: Wrapper.
+Description: Wrapper around ignition package.
