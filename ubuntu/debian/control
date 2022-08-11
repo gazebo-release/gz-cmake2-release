@@ -28,5 +28,5 @@ Depends: libignition-cmake2-dev, ${misc:Depends}
 Architecture: any
 Priority: optional
 Section: libdevel
-Description: dependency package
+Description: dummy
  It's recommended to use the gz packages going forward.
