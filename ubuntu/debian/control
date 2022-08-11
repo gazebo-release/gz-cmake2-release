@@ -22,3 +22,10 @@ Description: Gazebo CMake Library - Development files
  third party projects against them. It provides modules that are used to find
  dependencies of Gazebo projects and generate cmake targets for consumers of
  Gazebo projects to link against.
+
+Package: libgz-cmake2-dev
+Depends: libignition-cmake2-dev, ${misc:Depends}
+Architecture: any
+Priority: optional
+Section: libdevel
+Description: Wrapper.
