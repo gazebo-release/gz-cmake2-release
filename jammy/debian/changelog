@@ -1,3 +1,9 @@
+ignition-cmake2 (2.17.3~pre1-1~jammy) jammy; urgency=medium
+
+  * ignition-cmake2 2.17.3~pre1-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Tue, 11 Mar 2025 17:57:27 -0700
+
 ignition-cmake2 (2.17.2-1~jammy) jammy; urgency=medium
 
   * ignition-cmake2 2.17.2-1 release
